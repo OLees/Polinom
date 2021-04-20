@@ -1,1 +1,1 @@
-# Polinom
+# Translator
